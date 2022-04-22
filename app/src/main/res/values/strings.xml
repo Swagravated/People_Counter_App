@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">People_Counter_App</string>
+    <string name="sad">Sad</string>
+    <string name="amazing">Amazing</string>
+    <string name="reset">Re-Try</string>
+    <string name="textViewMain">Hello, How are you feeling today?</string>
+    <string name="buttonYesPressed">I\'m glad you\'re feeling Amazing!</string>
+    <string name="buttonNoPressed"> \n times you\'ve hit this button, are you sure? ;)</string>
+</resources>
